@@ -1,0 +1,60 @@
+{
+	"genericResponses": [
+		{
+			"response": "Aye.",
+			"script": "PIRATE"
+		},
+		{
+			"response": "Blimey!",
+			"script": "PIRATE"
+		},
+		{
+			"response": "Cleave him to the brisket.",
+			"script": "PIRATE"
+		},
+		{
+			"response": "Dead men tell no tales.",
+			"script": "PIRATE"
+		},
+		{
+			"response": "Don't be such a Landlubber.",
+			"script": "PIRATE"
+		}
+	],
+	"goodbyes": [
+		{
+			"message": "Aaaarrrrgggghhhh!",
+			"script": "PIRATE"
+		},
+		{
+			"message": "See ya in Davy Jones' Lockerrr.",
+			"script": "PIRATE"
+		},
+		{
+			"message": "Time to walk the plank.",
+			"script": "PIRATE"
+		}
+	],
+	"greetings": [
+		{
+			"greeting": "Ahoy!",
+			"script": "PIRATE"
+		},
+		{
+			"greeting": "Ahoy, Matey",
+			"script": "PIRATE"
+		},
+		{
+			"greeting": "Ahoy, me Hearties!",
+			"script": "PIRATE"
+		},
+		{
+			"greeting": "Yo Ho Ho",
+			"script": "PIRATE"
+		}
+	],
+	"pairs": [],
+	"synonyms": [],
+	"transformations": [],
+	"keywords": {}
+}
