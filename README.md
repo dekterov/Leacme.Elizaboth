@@ -4,8 +4,8 @@
 
 This application features the ability to chat with a selected [ELIZA](https://en.wikipedia.org/wiki/ELIZA)-derived bot.
 
-![index](https://user-images.githubusercontent.com/6654513/71701995-3966da00-2d8a-11ea-95aa-64233130d7ea.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71701995-3966da00-2d8a-11ea-95aa-64233130d7ea.png)
 
 ## Application Compiling
 
